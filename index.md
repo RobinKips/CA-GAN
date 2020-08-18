@@ -7,3 +7,4 @@
 - Supplementary materials : [LINK HERE]
 - Videos : [LINK HERE]
 
+{% include images/youtubePlayer.html id="s2-sbaDaMx0" %}
