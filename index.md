@@ -8,5 +8,6 @@ Paper : [LINK HERE]
 ### Supplementary materials
 
 - Supplementary materials : [LINK HERE]
+
 ### Video example:
 {% include_relative images/youtube_player.html %}
