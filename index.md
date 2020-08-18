@@ -1,10 +1,12 @@
-## CA-GAN : Weakly Supervised Color Aware GAN for Controllable Makeup Transfer
+# CA-GAN: Weakly Supervised Color Aware GAN for Controllable Makeup Transfer
 
 ![example_style_transfer](images/full_face_shades.png)
 
+### Paper
+Paper : [LINK HERE]
 
-- Paper : [LINK HERE]
+### Supplementary materials
+
 - Supplementary materials : [LINK HERE]
-- Videos : [LINK HERE]
-
+### Video example:
 {% include_relative images/youtube_player.html %}
