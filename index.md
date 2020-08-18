@@ -7,4 +7,4 @@
 - Supplementary materials : [LINK HERE]
 - Videos : [LINK HERE]
 
-{% include_relative images/youtubePlayer.html %}
+{% include_relative images/youtube_player.html %}
