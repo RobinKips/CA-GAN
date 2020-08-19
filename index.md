@@ -1,5 +1,14 @@
 # CA-GAN: Weakly Supervised Color Aware GAN for Controllable Makeup Transfer
 
+<p align="center">
+  <img width="40%" src="images/loreal_research.png">
+</p>
+
+<div>
+    <h2><a style="width: 20%;margin: 2.5%;" target="_blank">Robin KIPS</a><a style="width: 20%;margin: 2.5%;" target="_blank">Pietro Gori</a><a style="width: 20%;margin: 2.5%;" target="_blank">Matthieu Perrot</a><a style="width: 20%;margin: 2.5%;" target="_blank">Isabelle BLOCH</a></h2>
+</div>
+
+
 ![example_style_transfer](images/full_face_shades.png)
 
 ### Abstract:
