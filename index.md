@@ -1,7 +1,7 @@
 # CA-GAN: Weakly Supervised Color Aware GAN for Controllable Makeup Transfer
 
 <p align="center">
-   <img  style="width: 30%;margin: 2.5%;" width="40%" src="images/loreal_research.png">  <img  style="width: 30%;margin: 2.5%;" width="40%" src="images/telecom_icon.png">   <img  style="width: 30%;margin: 2.5%;" width="40%" src="images/idp_icon.png">
+   <img  style="width: 32%;margin: 2.5%;" width="40%" src="images/loreal_research.png">  <img  style="width: 12%;margin: 2.5%;" width="40%" src="images/telecom_icon.png">   <img  style="width: 34%;margin: 2.5%;" width="40%" src="images/idp_icon.png">
 </p>
 
 <div>
@@ -18,6 +18,11 @@ Since color labels are rare and costly to acquire, our method leverages
 weakly supervised learning for conditional GANs. This enables to learn a controllable synthesis of complex objects, and only requires a weak proxy of the image attribute that we desire to modify.
 Finally, we present for the first time a quantitative analysis of makeup style transfer and color control performance.
 
+### Video examples:
+
+<iframe  style="display: block; margin: auto;" width="560" height="315" src="https://www.youtube.com/embed/zA18a8-R6Wg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe style="display: block; margin: auto;"  width="560" height="315" src="https://www.youtube.com/embed/hHOZX6U_nqU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### Paper:
 Paper : [LINK HERE]
 
@@ -25,10 +30,6 @@ Paper : [LINK HERE]
 
 - Supplementary materials : [LINK HERE]
 
-### Video example:
-
-<iframe  style="display: block; margin: auto;" width="560" height="315" src="https://www.youtube.com/embed/zA18a8-R6Wg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<iframe style="display: block; margin: auto;"  width="560" height="315" src="https://www.youtube.com/embed/hHOZX6U_nqU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ### Dataset : 
 
 [FIXME]
