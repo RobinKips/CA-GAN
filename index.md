@@ -1,7 +1,7 @@
 # CA-GAN: Weakly Supervised Color Aware GAN for Controllable Makeup Transfer
 
 <p align="center">
-  <img width="40%" src="images/loreal_research.png">
+   <img  style="width: 30%;margin: 2.5%;" width="40%" src="images/loreal_research.png">  <img  style="width: 30%;margin: 2.5%;" width="40%" src="images/loreal_research.png">   <img  style="width: 30%;margin: 2.5%;" width="40%" src="images/loreal_research.png">
 </p>
 
 <div>
