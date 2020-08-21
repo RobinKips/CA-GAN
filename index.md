@@ -1,12 +1,14 @@
 # CA-GAN: Weakly Supervised Color Aware GAN for Controllable Makeup Transfer
 
+<div>
+    <h2><a style="width: 20%;margin: 2.5%;" href="https://www.linkedin.com/in/robin-kips" target="_blank">Robin Kips</a><a style="width: 20%;margin: 2.5%;" href="https://www.linkedin.com/in/pietro-gori-b097bb118/" target="_blank">Pietro Gori</a><a style="width: 20%;margin: 2.5%;" href="https://www.linkedin.com/in/matthieu-perrot-225ab01b/" target="_blank">Matthieu Perrot</a><a style="width: 20%;margin: 2.5%;" href="https://www.linkedin.com/in/isabelle-bloch-b954144/" target="_blank">Isabelle Bloch</a></h2>
+</div>
+
+
 <p align="center">
    <img  style="width: 32%;margin: 2.5%;" width="40%" src="images/loreal_research.png">  <img  style="width: 12%;margin: 2.5%;" width="40%" src="images/telecom_icon.png">   <img  style="width: 34%;margin: 2.5%;" width="40%" src="images/idp_icon.png">
 </p>
 
-<div>
-    <h2><a style="width: 20%;margin: 2.5%;" href="https://www.linkedin.com/in/robin-kips" target="_blank">Robin Kips</a><a style="width: 20%;margin: 2.5%;" href="https://www.linkedin.com/in/pietro-gori-b097bb118/" target="_blank">Pietro Gori</a><a style="width: 20%;margin: 2.5%;" href="https://www.linkedin.com/in/matthieu-perrot-225ab01b/" target="_blank">Matthieu Perrot</a><a style="width: 20%;margin: 2.5%;" href="https://www.linkedin.com/in/isabelle-bloch-b954144/" target="_blank">Isabelle Bloch</a></h2>
-</div>
 
 
 ![example_style_transfer](images/full_face_shades.png)
@@ -30,7 +32,7 @@ Our presentation at the AIM20 workshop, in conjonction with ECCV.
 
 ### Paper:
 
-Paper : [waiting for ECCV proceedings] 
+Paper : [waiting for ECCV proceedings] \
 Supplementary Materials : [waiting for ECCV proceedings]
 
 ### Model Architecture:
@@ -53,4 +55,4 @@ Our model shows makeup style transfer performances that are equivalent to state 
 ![style_quali](images/style_transfer_quali.png)
 
 ### Other works
-Check out other paper presented at AIM (ECCV 2020): <a href="https://despoisj.github.io/AgingMapGAN/">https://despoisj.github.io/AgingMapGAN/</a>
+Check out other paper presented at AIM (ECCV 2020): <a href="https://despoisj.github.io/AgingMapGAN/" target="_blank">https://despoisj.github.io/AgingMapGAN/</a>
