@@ -34,12 +34,14 @@ Paper : [LINK HERE]
 Supplementary Materials [LINK HERE]
 
 ### Model Architecture:
-The training procedure of our CA-GAN model. First (a) the generator G estimates an image from a source image and a target makeup color. Secondly (b) the discriminator D estimates the makeup color, skin color and a real/fake classification from the generated image, used to compute the color regression loss L_color, background consistency loss L_bg and adversarial loss L_adv, respectively. Thirdly (c), the source image is reconstructed from the generated one using the makeup color as target. The reconstruction is used to compute the cycle consistency loss L_cycle.
-![model_archi](images/mode_pipeline.png)
+The training procedure of our CA-GAN model. First (a) the generator G estimates an image from a source image and a target makeup color. Secondly (b) the discriminator D estimates the makeup color, skin color and a real/fake classification from the generated image, used to compute the color regression loss L_color, background consistency loss *L_bg* and adversarial loss *L_adv*, respectively. Thirdly (c), the source image is reconstructed from the generated one using the makeup color as target. The reconstruction is used to compute the cycle consistency loss *L_cycle*.
+<!-- ![model_archi](images/mode_pipeline.png =250x) -->
+<img  style="width: 32%;margin: 2.5%;" width="40%" src="images/mode_pipeline.png alt="drawing"/>
+
 
 ### Results:
 
-Modification of makeup color along each dimension of the \\$CIE L^*a^*b^*$\\ color space, using images from our social media dataset.
+Modification of makeup color along each dimension of the *CIE Lab* color space, using images from our social media dataset.
 The color patch on the bottom-right of each image illustrates the target color passed to the model.
 Our approach generalizes to lips and eyes images with various makeup textures and facial poses.
 ![results_grid](images/closeup_editing_square.png)
