@@ -5,7 +5,7 @@
 </p>
 
 <div>
-    <h2><a style="width: 20%;margin: 2.5%;" target="_blank">Robin Kips</a><a style="width: 20%;margin: 2.5%;" target="_blank">Pietro Gori</a><a style="width: 20%;margin: 2.5%;" target="_blank">Matthieu Perrot</a><a style="width: 20%;margin: 2.5%;" target="_blank">Isabelle Bloch</a></h2>
+    <h2><a style="width: 20%;margin: 2.5%;" href="https://www.linkedin.com/in/robin-kips" target="_blank">Robin Kips</a><a style="width: 20%;margin: 2.5%;" target="_blank">Pietro Gori</a><a style="width: 20%;margin: 2.5%;" target="_blank">Matthieu Perrot</a><a style="width: 20%;margin: 2.5%;" target="_blank">Isabelle Bloch</a></h2>
 </div>
 
 
@@ -17,6 +17,11 @@ We introduce CA-GAN, a generative model that learns to modify the color of speci
 Since color labels are rare and costly to acquire, our method leverages
 weakly supervised learning for conditional GANs. This enables to learn a controllable synthesis of complex objects, and only requires a weak proxy of the image attribute that we desire to modify.
 Finally, we present for the first time a quantitative analysis of makeup style transfer and color control performance.
+
+### Video presentation : 
+
+<iframe style="display: block; margin: auto;" width="560" height="315" src="https://www.youtube.com/embed/3YjkkxgAIKw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 ### Video examples:
 
