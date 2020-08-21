@@ -30,8 +30,8 @@ Finally, we present for the first time a quantitative analysis of makeup style t
 
 ### Paper:
 
-Paper : [LINK HERE] 
-Supplementary Materials [LINK HERE]
+Paper : [waiting for ECCV proceedings] 
+Supplementary Materials : [waiting for ECCV proceedings]
 
 ### Model Architecture:
 The training procedure of our CA-GAN model. First (a) the generator G estimates an image from a source image and a target makeup color. Secondly (b) the discriminator D estimates the makeup color, skin color and a real/fake classification from the generated image, used to compute the color regression loss L_color, background consistency loss *L_bg* and adversarial loss *L_adv*, respectively. Thirdly (c), the source image is reconstructed from the generated one using the makeup color as target. The reconstruction is used to compute the cycle consistency loss *L_cycle*.
