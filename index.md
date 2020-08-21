@@ -19,7 +19,7 @@ weakly supervised learning for conditional GANs. This enables to learn a control
 Finally, we present for the first time a quantitative analysis of makeup style transfer and color control performance.
 
 ### Video presentation: 
-
+Our presentation at the AIM20 workshop, in conjonction with ECCV.
 <iframe style="display: block; margin: auto;" width="560" height="315" src="https://www.youtube.com/embed/3YjkkxgAIKw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
