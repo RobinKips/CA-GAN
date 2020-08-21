@@ -5,7 +5,7 @@
 </p>
 
 <div>
-    <h2><a style="width: 20%;margin: 2.5%;" href="https://www.linkedin.com/in/robin-kips" target="_blank">Robin Kips</a><a style="width: 20%;margin: 2.5%;" href=https://www.linkedin.com/in/pietro-gori-b097bb118/" target="_blank">Pietro Gori</a><a style="width: 20%;margin: 2.5%;" href="https://www.linkedin.com/in/matthieu-perrot-225ab01b/" target="_blank">Matthieu Perrot</a><a style="width: 20%;margin: 2.5%;" href="https://www.linkedin.com/in/isabelle-bloch-b954144/" target="_blank">Isabelle Bloch</a></h2>
+    <h2><a style="width: 20%;margin: 2.5%;" href="https://www.linkedin.com/in/robin-kips" target="_blank">Robin Kips</a><a style="width: 20%;margin: 2.5%;" href="https://www.linkedin.com/in/pietro-gori-b097bb118/" target="_blank">Pietro Gori</a><a style="width: 20%;margin: 2.5%;" href="https://www.linkedin.com/in/matthieu-perrot-225ab01b/" target="_blank">Matthieu Perrot</a><a style="width: 20%;margin: 2.5%;" href="https://www.linkedin.com/in/isabelle-bloch-b954144/" target="_blank">Isabelle Bloch</a></h2>
 </div>
 
 
@@ -18,7 +18,7 @@ Since color labels are rare and costly to acquire, our method leverages
 weakly supervised learning for conditional GANs. This enables to learn a controllable synthesis of complex objects, and only requires a weak proxy of the image attribute that we desire to modify.
 Finally, we present for the first time a quantitative analysis of makeup style transfer and color control performance.
 
-### Video presentation : 
+### Video presentation: 
 
 <iframe style="display: block; margin: auto;" width="560" height="315" src="https://www.youtube.com/embed/3YjkkxgAIKw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -29,12 +29,14 @@ Finally, we present for the first time a quantitative analysis of makeup style t
 <iframe style="display: block; margin: auto;"  width="560" height="315" src="https://www.youtube.com/embed/hHOZX6U_nqU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Paper:
+
 Paper : [LINK HERE]
+Supplementary Materials
 
-### Supplementary materials
+### Model Architecture:
+![model_archi](images/mode_pipeline.png)
 
-- Supplementary materials : [LINK HERE]
+### Results:
+![results_grid](images/closeup_editing_square.png)
+![style_quali](images/style_transfer_quali.png)
 
-### Dataset : 
-
-[FIXME]
