@@ -5,7 +5,7 @@
 </p>
 
 <div>
-    <h2><a style="width: 20%;margin: 2.5%;" href="https://www.linkedin.com/in/robin-kips" target="_blank">Robin Kips</a><a style="width: 20%;margin: 2.5%;" target="_blank">Pietro Gori</a><a style="width: 20%;margin: 2.5%;" target="_blank">Matthieu Perrot</a><a style="width: 20%;margin: 2.5%;" target="_blank">Isabelle Bloch</a></h2>
+    <h2><a style="width: 20%;margin: 2.5%;" href="https://www.linkedin.com/in/robin-kips" target="_blank">Robin Kips</a><a style="width: 20%;margin: 2.5%;" href=https://www.linkedin.com/in/pietro-gori-b097bb118/" target="_blank">Pietro Gori</a><a style="width: 20%;margin: 2.5%;" href="https://www.linkedin.com/in/matthieu-perrot-225ab01b/" target="_blank">Matthieu Perrot</a><a style="width: 20%;margin: 2.5%;" href="https://www.linkedin.com/in/isabelle-bloch-b954144/" target="_blank">Isabelle Bloch</a></h2>
 </div>
 
 
