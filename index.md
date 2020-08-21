@@ -55,4 +55,4 @@ Our model shows makeup style transfer performances that are equivalent to state 
 ![style_quali](images/style_transfer_quali.png)
 
 ### Other works
-Check out other paper presented at AIM (ECCV 2020): <a href="https://despoisj.github.io/AgingMapGAN/" target="_blank">https://despoisj.github.io/AgingMapGAN/</a>
+Check out our other paper presented at AIM (ECCV 2020): <a href="https://despoisj.github.io/AgingMapGAN/" target="_blank">https://despoisj.github.io/AgingMapGAN/</a>
