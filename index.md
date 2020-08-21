@@ -37,7 +37,7 @@ Supplementary Materials [LINK HERE]
 The training procedure of our CA-GAN model. First (a) the generator G estimates an image from a source image and a target makeup color. Secondly (b) the discriminator D estimates the makeup color, skin color and a real/fake classification from the generated image, used to compute the color regression loss L_color, background consistency loss *L_bg* and adversarial loss *L_adv*, respectively. Thirdly (c), the source image is reconstructed from the generated one using the makeup color as target. The reconstruction is used to compute the cycle consistency loss *L_cycle*.
 <!-- ![model_archi](images/mode_pipeline.png =250x) -->
 <p align="center">
-<img width="70%" src="images/mode_pipeline.png"/>
+	<img width="70%" src="images/mode_pipeline.png"/>
 </p>
 
 ### Results:
