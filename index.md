@@ -34,13 +34,11 @@ Paper : [waiting for ECCV proceedings]
 Supplementary Materials : [waiting for ECCV proceedings]
 
 ### Model Architecture:
-
+The training procedure of our CA-GAN model. First (a) the generator G estimates an image from a source image and a target makeup color. Secondly (b) the discriminator D estimates the makeup color, skin color and a real/fake classification from the generated image, used to compute the color regression loss L_color, background consistency loss *L_bg* and adversarial loss *L_adv*, respectively. Thirdly (c), the source image is reconstructed from the generated one using the makeup color as target. The reconstruction is used to compute the cycle consistency loss *L_cycle*.
 <!-- ![model_archi](images/mode_pipeline.png =250x) -->
 <p align="center">
 	<img width="70%" src="images/mode_pipeline.png"/>
 </p>
-
-*The training procedure of our CA-GAN model. First (a) the generator G estimates an image from a source image and a target makeup color. Secondly (b) the discriminator D estimates the makeup color, skin color and a real/fake classification from the generated image, used to compute the color regression loss L_color, background consistency loss *L_bg* and adversarial loss *L_adv*, respectively. Thirdly (c), the source image is reconstructed from the generated one using the makeup color as target. The reconstruction is used to compute the cycle consistency loss *L_cycle*.*
 
 ### Results:
 
@@ -53,3 +51,6 @@ Our approach generalizes to lips and eyes images with various makeup textures an
 Our model shows makeup style transfer performances that are equivalent to state of the art models, while obtaining better preservation of the skin color of the source subject.
 
 ![style_quali](images/style_transfer_quali.png)
+
+### Other works
+Check out other paper presented at AIM (ECCV 2020): <a href="https://despoisj.github.io/AgingMapGAN/">https://despoisj.github.io/AgingMapGAN/</a>
