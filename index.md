@@ -49,7 +49,7 @@ Modification of makeup color along each dimension of the *CIE Lab* color space, 
 The color patch on the bottom-right of each image illustrates the target color passed to the model.
 Our approach generalizes to lips and eyes images with various makeup textures and facial poses.
 
-![results_grid](images/closeup_editing_square.png)
+![results_grid](images/closeup_editing_square_bis.png)
 
 Our model shows makeup style transfer performances that are equivalent to state of the art models, while obtaining better preservation of the skin color of the source subject.
 
