@@ -33,7 +33,7 @@ Our presentation at the AIM20 workshop, in conjonction with ECCV.
 ### Paper:
 
 Paper : [waiting for ECCV proceedings] \
-ArXiv : (https://arxiv.org/abs/2008.10298)[https://arxiv.org/abs/2008.10298]
+ArXiv : [https://arxiv.org/abs/2008.10298](https://arxiv.org/abs/2008.10298) \
 Supplementary Materials : [waiting for ECCV proceedings]
 
 ### Model Architecture:
