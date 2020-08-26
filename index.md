@@ -36,6 +36,28 @@ Paper : [waiting for ECCV proceedings] \
 ArXiv : [https://arxiv.org/abs/2008.10298](https://arxiv.org/abs/2008.10298) \
 Supplementary Materials : [waiting for ECCV proceedings]
 
+[10:01] DESPOIS Julien
+    <div align="center" style="display:flex; margin-bottom:50px; margin-top: 30px;">
+    <div style="width:20%;display: inline-block;">    
+        <a href="https://arxiv.org/abs/2008.10298" target="_blank">
+            <img class="layered-paper-big" style="max-height:200px" src="images/ca_gan_paper-page-001.jpg">
+        </a>
+    </div>
+    <div style="width:70%;display: flex; align-items: center; margin-left: 5%;">
+        <div style="text-align: left;">
+            <span style="font-size:12pt">R. Kips, P. Gori, M. Perrot, I.Bloch</span><br>
+            <span style="font-size:12pt">
+                <b>CA-GAN: Weakly Supervised Color Aware GAN for Controllable Makeup Transfer</b>
+            </span>
+            <br>
+            <span style="font-size:12pt">AIM20 (ECCV20 Workshop)</span>
+            <span style="font-size:12pt"><a href="https://arxiv.org/abs/2008.10298" target="_blank">[arXiv]</a>&nbsp;<a href="bibtex.txt" target="_blank">[BibTeX]</a>&nbsp;</span>
+        </div>
+    </div>
+</div>
+ 
+
+
 ### Model Architecture:
 The training procedure of our CA-GAN model. First (a) the generator G estimates an image from a source image and a target makeup color. Secondly (b) the discriminator D estimates the makeup color, skin color and a real/fake classification from the generated image, used to compute the color regression loss L_color, background consistency loss *L_bg* and adversarial loss *L_adv*, respectively. Thirdly (c), the source image is reconstructed from the generated one using the makeup color as target. The reconstruction is used to compute the cycle consistency loss *L_cycle*.
 <!-- ![model_archi](images/mode_pipeline.png =250x) -->
