@@ -36,8 +36,8 @@ Paper : [waiting for ECCV proceedings] \
 ArXiv : [https://arxiv.org/abs/2008.10298](https://arxiv.org/abs/2008.10298) \
 Supplementary Materials : [waiting for ECCV proceedings]
 
-[10:01] DESPOIS Julien
-    <div align="center" style="display:flex; margin-bottom:50px; margin-top: 30px;">
+
+ <div align="center" style="display:flex; margin-bottom:50px; margin-top: 30px;">
     <div style="width:20%;display: inline-block;">    
         <a href="https://arxiv.org/abs/2008.10298" target="_blank">
             <img class="layered-paper-big" style="max-height:200px" src="images/ca_gan_paper-page-001.jpg">
@@ -51,11 +51,10 @@ Supplementary Materials : [waiting for ECCV proceedings]
             </span>
             <br>
             <span style="font-size:12pt">AIM20 (ECCV20 Workshop)</span>
-            <span style="font-size:12pt"><a href="https://arxiv.org/abs/2008.10298" target="_blank">[arXiv]</a>&nbsp;<a href="bibtex.txt" target="_blank">[BibTeX]</a>&nbsp;</span>
+            <span style="font-size:12pt"><a href="https://arxiv.org/abs/2008.10298" target="_blank">[arXiv]</a>&nbsp;<a href="bibtex.txt" target="_blank">[BibTeX]</a>&nbsp;<a href="ca_gan_supplementary.pdf" target="_blank">[Supplementary Materials]</a></span>
         </div>
     </div>
 </div>
- 
 
 
 ### Model Architecture:
