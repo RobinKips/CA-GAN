@@ -32,9 +32,9 @@ Our presentation at the AIM20 workshop, in conjonction with ECCV.
 
 ### Paper:
 
-Paper : [waiting for ECCV proceedings] \
+Paper : [ECCV Workshop proceedings](https://link.springer.com/chapter/10.1007%2F978-3-030-67070-2_17) \
 ArXiv : [https://arxiv.org/abs/2008.10298](https://arxiv.org/abs/2008.10298) \
-Supplementary Materials : [waiting for ECCV proceedings]
+Supplementary Materials : [ECCV Workshop supplementary](https://static-content.springer.com/esm/chp%3A10.1007%2F978-3-030-67070-2_17/MediaObjects/509619_1_En_17_MOESM6_ESM.pdf)
 
 
  <div align="center" style="display:flex; margin-bottom:50px; margin-top: 30px;">
